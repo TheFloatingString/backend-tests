@@ -4,6 +4,7 @@ How to run the backend in cmd:
 
 ```bash
 pip install -r requirements.txt
+set DATABASE_URL=<URL TO DATABASE>
 python app.py
 ```
 
